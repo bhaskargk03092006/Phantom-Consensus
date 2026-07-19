@@ -2,7 +2,7 @@
 
 ## Team Information
 - **Team Name**: CREED
-- **Year**: 1st Year
+- **Year**: 2nd sem
 - **All-Female Team**: No
 
 ## Architecture Overview
